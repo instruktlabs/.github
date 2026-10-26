@@ -4,7 +4,7 @@ This is the default security policy for Instrukt Labs repositories that don't pu
 
 ## Report a vulnerability
 
-Email [matt@instruktlabs.com](mailto:matt@instruktlabs.com) with the subject "Security report: <repository name>". Where a repository has GitHub private vulnerability reporting turned on, you can use that form instead.
+Email [support@instruktlabs.com](mailto:support@instruktlabs.com) with the subject "Security report: <repository name>". Where a repository has GitHub private vulnerability reporting turned on, you can use that form instead.
 
 Include, where available:
 
