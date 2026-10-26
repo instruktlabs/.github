@@ -2,7 +2,7 @@
 
 **Open tools for building 3D worlds with coding agents, tested in real games.**
 
-An independent lab for real-time graphics, simulation and games. It builds open-source tools, uses them to ship browser games, and folds what the games expose back into the tools. Right now it is one person, [Matthew Kissinger](https://github.com/matthew-kissinger).
+An independent lab for real-time graphics, simulation and games. It builds open-source tools, uses them to ship browser games, and folds what the games expose back into the tools. Right now it is one person, [Matthew Kissinger](https://github.com/matthew-kissinger). Everything below is also on [instruktlabs.com](https://instruktlabs.com).
 
 ### Tools
 
