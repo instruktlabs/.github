@@ -14,7 +14,7 @@ An independent lab for real-time graphics, simulation and games. It builds open-
 
 Where the tools get tested.
 
-- **[Sheepdog Sim](https://sheepdogsim.com)**: a calm browser herding game. One dog, 25 to 200 sheep, solo or co-op. Farm assets made with Kiln. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds)
+- **[Sheepdog Sim](https://sheepdogsim.com)**: a calm browser herding game. One dog, 25 to 200 sheep, solo, or co-op and competitive for two to four players. Farm assets made with Kiln. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds)
 - **[OBJEKT 62](https://objekt62.com)**: fly an ornithopter over a 40 km alien dune sea, salvage what you dare, get home before the storm. Assets mostly made with Kiln.
 - **[ski sim](https://skisim.app)**: a free freestyle skiing game for desktop and phone browsers. Carve trails, land tricks, grind rails. Assets made with Kiln.
 - **[Falling Sand Alchemy](https://matthew-kissinger.github.io/falling-sand-alchemy/)**: a zen falling-sand game about transmutation. Installable PWA. MIT · [source](https://github.com/matthew-kissinger/falling-sand-alchemy)
