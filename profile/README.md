@@ -22,6 +22,7 @@ Where the tools get tested.
 
 ### Primitives and experiments
 
+- **[H-7](https://instruktlabs.github.io/h-7/)**: TypeGPU kernels to run the swarm of up to 65k agents as three.js compute passes on WebGPU 
 - **[Matter Field](https://instruktlabs.github.io/matter-field/)**: one procedural field for GPU rendering and CPU gameplay queries, with measured CPU/GPU parity. Public preview, MIT · [source](https://github.com/instruktlabs/matter-field)
 - **[Three.js Field Grass](https://matthew-kissinger.github.io/threejs-field-grass/)**: interactive TSL grass for Three.js. Deterministic scatter, wind and body wakes on WebGPU and WebGL2. MIT · [source](https://github.com/matthew-kissinger/threejs-field-grass)
 - **[Flock Lab](https://matthew-kissinger.github.io/sds-gpu-boids/)**: WebGPU compute flocking. 100,000 sheep simulated on the GPU and checked against a CPU reference. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds-gpu-boids)
