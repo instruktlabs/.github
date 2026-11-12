@@ -1,14 +1,21 @@
 ## Instrukt Labs
 
-**Open tools for building 3D worlds with coding agents, tested in real games.**
+**Open tools for AI agents, and the 3D worlds and games built with them.**
 
-An independent lab for real-time graphics, simulation and games. It builds open-source tools, uses them to ship browser games, and folds what the games expose back into the tools. Right now it is one person, [Matthew Kissinger](https://github.com/matthew-kissinger). Everything below is also on [instruktlabs.com](https://instruktlabs.com).
+An independent lab for real-time graphics, simulation and games, and for the tools, skills and workflows that AI agents use. It builds open-source tools, uses them to ship browser games, and folds what the games expose back into the tools. AI agents are part of how the work gets done, and some of what it makes is for them. Right now it is one person, [Matthew Kissinger](https://github.com/matthew-kissinger). Everything below is also on [instruktlabs.com](https://instruktlabs.com).
 
 ### Tools
 
 - **[Kiln](https://kilnstudio.tools)**: build and revise 3D assets with your coding agent. Local MCP server, CLI and SDK; editable source plus GLB export. MIT · [source](https://github.com/instruktlabs/kiln) · [docs](https://kilnstudio.tools/docs/install/) · [npm](https://www.npmjs.com/package/@instruktlabs/kiln)
 - **[Holodeck](https://holodeck.kilnstudio.tools)**: a local browser workspace where you and your coding agent build 3D worlds, then walk them. Early prototype, powered by Kiln. MIT code, CC0 bundled assets · [source](https://github.com/instruktlabs/holodeck)
 - **[Hosted Kiln](https://kiln.instruktlabs.com)**: Kiln as a remote MCP server. Free, invite-only and deliberately small; ask for access in the Kiln Discord.
+
+### Agent skills
+
+Installable skills for coding agents, written while building and running real agent services. MIT.
+
+- **[AgentCore Skills](https://github.com/matthew-kissinger/agentcore-skills)**: skills for Amazon Bedrock AgentCore: TypeScript runtimes, Gateway identity, streaming and operations. Drawn from running and retiring a real hosted service.
+- **[Strands Agents Skills](https://github.com/matthew-kissinger/strands-agents-skills)**: skills for debugging Strands Agents tool loops: provider bridges, budgets and transport contracts.
 
 ### Games
 
@@ -18,7 +25,7 @@ Where the tools get tested.
 - **[OBJEKT 62](https://objekt62.com)**: fly an ornithopter over a 40 km alien dune sea, salvage what you dare, get home before the storm. Assets mostly made with Kiln.
 - **[ski sim](https://skisim.app)**: a free freestyle skiing game for desktop and phone browsers. Carve trails, land tricks, grind rails. Assets made with Kiln.
 - **[Falling Sand Alchemy](https://matthew-kissinger.github.io/falling-sand-alchemy/)**: a zen falling-sand game about transmutation. Installable PWA. MIT · [source](https://github.com/matthew-kissinger/falling-sand-alchemy)
-- **[Terror in the Jungle](https://vietnam-war-sim.pages.dev/)**: a browser combined-arms sandbox set in the Vietnam War, on real elevation data for the A Shau Valley. Infantry, vehicles and aircraft in one Three.js WebGPU runtime. Rebuild in progress.
+- **[Terror in the Jungle](https://vietnamwarsim.com/)**: a squad combat game in the browser: command a squad, learn your weapons and find your way through the jungle, with a firebase gun range for practice. Pre-alpha; desktop and laptop for now.
 
 ### Primitives and experiments
 
@@ -27,8 +34,6 @@ Where the tools get tested.
 - **[Three.js Field Grass](https://matthew-kissinger.github.io/threejs-field-grass/)**: interactive TSL grass for Three.js. Deterministic scatter, wind and body wakes on WebGPU and WebGL2. MIT · [source](https://github.com/matthew-kissinger/threejs-field-grass)
 - **[Flock Lab](https://matthew-kissinger.github.io/sds-gpu-boids/)**: WebGPU compute flocking. 100,000 sheep simulated on the GPU and checked against a CPU reference. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds-gpu-boids)
 - **[Goldberg Planet](https://matthew-kissinger.github.io/goldberg-planet/)**: a walkable, flyable, mineable planet built on a true Goldberg polyhedron. WebGPU with WebGL2 fallback · [source](https://github.com/matthew-kissinger/goldberg-planet)
-
-Field notes: [AgentCore Skills](https://github.com/matthew-kissinger/agentcore-skills) and [Strands Agents Skills](https://github.com/matthew-kissinger/strands-agents-skills), installable coding-agent skills for Amazon Bedrock AgentCore and Strands Agents. MIT.
 
 ### Get involved
 
