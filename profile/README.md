@@ -24,16 +24,16 @@ Where the tools get tested.
 - **[Sheepdog Sim](https://sheepdogsim.com)**: a calm browser herding game. One dog, 25 to 200 sheep, solo, or co-op and competitive for two to four players. Farm assets made with Kiln. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds)
 - **[OBJEKT 62](https://objekt62.com)**: fly an ornithopter over a 40 km alien dune sea, salvage what you dare, get home before the storm. Assets mostly made with Kiln.
 - **[ski sim](https://skisim.app)**: a free freestyle skiing game for desktop and phone browsers. Carve trails, land tricks, grind rails. Assets made with Kiln.
+- **[Terror in the Jungle](https://vietnamwarsim.com/)**: a pre-alpha squad combat game in the browser, also known as Vietnam War Sim: command a squad, learn your weapons and find your way through the jungle, with a firebase gun range for practice. Demanding to run, with known problems and no full game loop yet. Desktop and laptop for now.
+- **[H-7](https://kilnstudio.tools/play/h-7/)**: a pre-alpha mech evacuation-defense demo. Pilot a heavy walker, defend the outpost relay from the swarm and keep the evacuation shuttles flying; start with Training. Desktop only, with a WebGPU-capable browser. Made with Kiln assets.
+- **[Goldberg Planet](https://matthew-kissinger.github.io/goldberg-planet/)**: a sandbox demo on a true Goldberg-polyhedron planet. Explore six worlds on foot in Survival or Creative mode; in Survival, craft a Starfarer and leave the planet. WebGPU with WebGL2 fallback. MIT · [source](https://github.com/matthew-kissinger/goldberg-planet)
 - **[Falling Sand Alchemy](https://matthew-kissinger.github.io/falling-sand-alchemy/)**: a zen falling-sand game about transmutation. Installable PWA. MIT · [source](https://github.com/matthew-kissinger/falling-sand-alchemy)
-- **[Terror in the Jungle](https://vietnamwarsim.com/)**: a squad combat game in the browser: command a squad, learn your weapons and find your way through the jungle, with a firebase gun range for practice. Pre-alpha; desktop and laptop for now.
 
 ### Primitives and experiments
 
-- **[H-7](https://instruktlabs.github.io/h-7/)**: TypeGPU kernels to run a swarm of up to 65k agents as three.js compute passes on WebGPU 
 - **[Matter Field](https://instruktlabs.github.io/matter-field/)**: one procedural field for GPU rendering and CPU gameplay queries, with measured CPU/GPU parity. Public preview, MIT · [source](https://github.com/instruktlabs/matter-field)
 - **[Three.js Field Grass](https://matthew-kissinger.github.io/threejs-field-grass/)**: interactive TSL grass for Three.js. Deterministic scatter, wind and body wakes on WebGPU and WebGL2. MIT · [source](https://github.com/matthew-kissinger/threejs-field-grass)
 - **[Flock Lab](https://matthew-kissinger.github.io/sds-gpu-boids/)**: WebGPU compute flocking. 100,000 sheep simulated on the GPU and checked against a CPU reference. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds-gpu-boids)
-- **[Goldberg Planet](https://matthew-kissinger.github.io/goldberg-planet/)**: a walkable, flyable, mineable planet built on a true Goldberg polyhedron. WebGPU with WebGL2 fallback · [source](https://github.com/matthew-kissinger/goldberg-planet)
 
 ### Get involved
 
