@@ -10,29 +10,26 @@ An independent lab for real-time graphics, simulation and games, and for the too
 - **[Holodeck](https://holodeck.kilnstudio.tools)**: a local browser workspace where you and your coding agent build 3D worlds, then walk them. Early prototype, powered by Kiln. MIT code, CC0 bundled assets · [source](https://github.com/instruktlabs/holodeck)
 - **[Hosted Kiln](https://kiln.instruktlabs.com)**: Kiln as a remote MCP server. Free, invite-only and deliberately small; ask for access in the Kiln Discord.
 
-### Agent skills
-
-Installable skills for coding agents, written while building and running real agent services. MIT.
-
-- **[AgentCore Skills](https://github.com/matthew-kissinger/agentcore-skills)**: skills for Amazon Bedrock AgentCore: TypeScript runtimes, Gateway identity, streaming and operations. Drawn from running and retiring a real hosted service.
-- **[Strands Agents Skills](https://github.com/matthew-kissinger/strands-agents-skills)**: skills for debugging Strands Agents tool loops: provider bridges, budgets and transport contracts.
-
 ### Games
 
 Where the tools get tested.
 
-- **[Sheepdog Sim](https://sheepdogsim.com)**: a calm browser herding game. One dog, 25 to 200 sheep, solo, or co-op and competitive for two to four players. Farm assets made with Kiln. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds)
-- **[OBJEKT 62](https://objekt62.com)**: fly an ornithopter over a 40 km alien dune sea, salvage what you dare, get home before the storm. Assets mostly made with Kiln.
-- **[ski sim](https://skisim.app)**: a free freestyle skiing game for desktop and phone browsers. Carve trails, land tricks, grind rails. Assets made with Kiln.
-- **[Terror in the Jungle](https://vietnamwarsim.com/)**: a pre-alpha squad combat game in the browser, also known as Vietnam War Sim: command a squad, learn your weapons and find your way through the jungle, with a firebase gun range for practice. Demanding to run, with known problems and no full game loop yet. Desktop and laptop for now.
+- **[Sheepdog Sim](https://sheepdogsim.com/)** is a browser herding game with 25, 75 or 200 sheep. Play solo or invite friends for co-op or shared-flock competition with two to four players. Farm assets made with Kiln. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds)
+- **[ski sim](https://skisim.app/)** is a browser skiing game with 12 trails, freestyle tricks and rails, online time and freestyle rankings, and multiplayer. Assets made with Kiln.
+- **[OBJEKT 62](https://objekt62.com/)** is in development. Fly an ornithopter over a 40 km dune sea, salvage what you dare, and get home before the storm. Assets mostly made with Kiln.
+- **[Terror in the Jungle](https://vietnamwarsim.com/)** is a playable desktop pre-alpha, also known as Vietnam War Sim. Command a squad across Riverline or practice at the Firebase Gun Range. Runs best on higher-end hardware.
 - **[H-7](https://kilnstudio.tools/play/h-7/)**: a pre-alpha mech evacuation-defense demo. Pilot a heavy walker, defend the outpost relay from the swarm and keep the evacuation shuttles flying; start with Training. Desktop only, with a WebGPU-capable browser. Made with Kiln assets.
 - **[Goldberg Planet](https://matthew-kissinger.github.io/goldberg-planet/)**: a sandbox demo on a true Goldberg-polyhedron planet. Explore six worlds on foot in Survival or Creative mode; in Survival, craft a Starfarer and leave the planet. WebGPU with WebGL2 fallback. MIT · [source](https://github.com/matthew-kissinger/goldberg-planet)
 - **[Falling Sand Alchemy](https://matthew-kissinger.github.io/falling-sand-alchemy/)**: a zen falling-sand game about transmutation. Installable PWA. MIT · [source](https://github.com/matthew-kissinger/falling-sand-alchemy)
+
+**Game activity as of November 24, 2026.** Sheepdog Sim recorded **13,039 browser profiles** and **1,301 online solo finishes**. Ski Sim recorded **3,544 profiles** and **4,418 accepted online runs**. [Counting details](https://instruktlabs.com/#game-activity).
 
 ### Primitives and experiments
 
 - **[Matter Field](https://instruktlabs.github.io/matter-field/)**: one procedural field for GPU rendering and CPU gameplay queries, with measured CPU/GPU parity. Public preview, MIT · [source](https://github.com/instruktlabs/matter-field)
 - **[Three.js Field Grass](https://matthew-kissinger.github.io/threejs-field-grass/)**: interactive TSL grass for Three.js. Deterministic scatter, wind and body wakes on WebGPU and WebGL2. MIT · [source](https://github.com/matthew-kissinger/threejs-field-grass)
+- **[Sperm Whale Sim](https://spermwhalesim.com/)** is in development. The current preview is a four-minute film about a deep-water hunt, rendered live in the browser.
+- **[Ocean Lab](https://matthew-kissinger.github.io/ocean-lab/)** is in development. Steer a gaff-rigged sloop and see how it handles different seas in an interactive Three.js playground.
 - **[Flock Lab](https://matthew-kissinger.github.io/sds-gpu-boids/)**: WebGPU compute flocking. 100,000 sheep simulated on the GPU and checked against a CPU reference. AGPL-3.0 · [source](https://github.com/matthew-kissinger/sds-gpu-boids)
 
 ### Get involved
